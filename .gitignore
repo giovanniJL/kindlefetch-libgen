@@ -1,0 +1,5 @@
+*.log
+kfdiag.txt
+kfsearch.html
+kf-curl.log
+kflg.conf
